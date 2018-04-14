@@ -5,3 +5,5 @@ TEST DUPA Krzysztof - IPI PAN zajęcia GIT
 No i mamy kolejną zmianę
 
 A teraz na brunch :)
+
+A teraz part 8
